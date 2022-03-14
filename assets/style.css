@@ -1,0 +1,16 @@
+
+:root{
+    --primary: #006CFA;
+    --secondary: #00E165;
+
+}
+
+[class*="col-"]{
+    background-color: var(--primary);
+}
+
+.container{
+    font-size: 10px;
+}
+
+
